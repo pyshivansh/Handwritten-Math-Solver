@@ -1,3 +1,1 @@
-print("Just testing")
-print("Why is this not working man?")
-print("Hello")
+print("Is it working now?")
